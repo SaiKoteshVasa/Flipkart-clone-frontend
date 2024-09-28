@@ -24,7 +24,7 @@
   }
   
   .content .contenthead {
-    font-size: 32px;
+    font-size: 2rem;
     font-family: sans-serif;
     margin: 1vh 2vw;
     font-weight:normal;
@@ -32,19 +32,20 @@
   }
   
   .viewallbtn {
-    margin: 15px 19px;
-    padding-top: 10px;
+    margin: 1rem 0.7rem;
+    padding-top: 0.2rem;
   }
   
   .viewbtn {
     color: white;
-    font-size: 22px;
+    width:5rem;
+    font-size: 1rem;
     font-family: 'PT Sans', sans-serif;
     background-color: #2874f0;
     border: none;
     box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.3);
     border-radius: 2px;
-    padding: 8px 18px;
+    padding: 0.3rem 0.7rem;
   }
   
  .offerimg1, .offerimg2, .offerimg3, .offerimg4, .offerimg5, .offerimg6, .offerimg7, .offerimg8 {

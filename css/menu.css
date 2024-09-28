@@ -30,18 +30,18 @@
     background-color: white;
     color: black;
     box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.3);
-    border-radius: 3px;
+    border-radius: 0.3rem;
     text-align: left;
     z-index: 1;
 }
 .linkmenu li {
     width: 13vw;
-    font-size: 17px;
-    margin: 16px;
-    padding: 5px;
+    font-size: 1.1rem;
+    margin: 1.3rem;
+    padding: 0.2rem;
 }
 .dropdown6 {
-    right: 3px;
+    right: 1.5rem;
 }
 .linkmenu li:hover {
     background-color: #e3e5e7;
